@@ -1,2 +1,2 @@
 # find-most-divisors-using-threads
-This program finds the number, within a specified range of integers from 1 to whatever positive integer greater than one is chosen, with the most divisors.  The user can choose how many threads will divide the task.
+This program finds the number, within a specified range of integers from 1 to whatever positive integer greater than one is chosen, with the most divisors.  The user can choose how many threads will divide the task. This is my solution to exercise 2 of chapter 12 from Introduction to Programming Using Java, Seventh Edition Version 7.0.2, December 2016 by David Eck.
